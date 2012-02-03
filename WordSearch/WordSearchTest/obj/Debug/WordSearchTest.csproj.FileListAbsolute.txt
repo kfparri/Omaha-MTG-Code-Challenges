@@ -1,0 +1,9 @@
+C:\Users\kfparri\Downloads\WordSearchSample\WordSearchSample\CS\WordSearchTest\bin\Debug\WordSearchTest.dll
+C:\Users\kfparri\Downloads\WordSearchSample\WordSearchSample\CS\WordSearchTest\bin\Debug\WordSearchTest.pdb
+C:\Users\kfparri\Downloads\WordSearchSample\WordSearchSample\CS\WordSearchTest\bin\Debug\OmahaMTG.Challenge.ChallengeCommon.dll
+C:\Users\kfparri\Downloads\WordSearchSample\WordSearchSample\CS\WordSearchTest\bin\Debug\OmahaMTG.Challenge.WordSearchChallenge.dll
+C:\Users\kfparri\Downloads\WordSearchSample\WordSearchSample\CS\WordSearchTest\bin\Debug\WordSearchImplementation.dll
+C:\Users\kfparri\Downloads\WordSearchSample\WordSearchSample\CS\WordSearchTest\bin\Debug\WordSearchImplementation.pdb
+C:\Users\kfparri\Downloads\WordSearchSample\WordSearchSample\CS\WordSearchTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kfparri\Downloads\WordSearchSample\WordSearchSample\CS\WordSearchTest\obj\Debug\WordSearchTest.dll
+C:\Users\kfparri\Downloads\WordSearchSample\WordSearchSample\CS\WordSearchTest\obj\Debug\WordSearchTest.pdb
